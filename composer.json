@@ -1,4 +1,5 @@
 {
 	"name": "vardot/slick",
-	"description": "forked from kenwheeler/slick"
+	"description": "forked from kenwheeler/slick to be used as drupal-library",
+  "type": "drupal-library"
 }
